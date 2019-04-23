@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: e049af7f65f39004c9bb73517cd2e75d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - grass: {fileID: 560436823674638749, guid: 2650f46d57c05e640b6ce5b8a3eb5e50, type: 3}
+  - denseGrass: {fileID: 42188213232203216, guid: 1beda77f5ec55ee449fa1d29df62b8af,
+      type: 3}
+  - stone: {fileID: 5518267052495916409, guid: b4db82061898f9c4fa4885211d83ca6a, type: 3}
+  - forrest: {fileID: 5786857809210028321, guid: 9f659d7591beb0c4f800d432a2577020,
+      type: 3}
+  - water: {fileID: 3048838246623784960, guid: 754d3f6efdad36046a70c06ce1c89016, type: 3}
+  - solidWay: {fileID: 8173900741105110618, guid: dabc76c716db66a4e9a14a92afd85c75,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,89 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1030797351
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5610985381623484781}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 87f8507c97e6b5846ad43fe975b24377, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!1001 &5610985381623322797
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 166336, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_Name
+      value: BlueCannon
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 7.655
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0.58838
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0.432
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0.011937532
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.9999288
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: -1.368
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 0.05685
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 0.05685
+      objectReference: {fileID: 0}
+    - target: {fileID: 470366, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 0.05685
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: e884025de6cbe234a8dd0efcbf584596, type: 3}
+--- !u!1 &5610985381623484781 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 166336, guid: e884025de6cbe234a8dd0efcbf584596,
+    type: 3}
+  m_PrefabInstance: {fileID: 5610985381623322797}
+  m_PrefabAsset: {fileID: 0}
